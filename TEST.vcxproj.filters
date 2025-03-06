@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="PivotArray.cpp">
+      <Filter>LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Check if Number is a Sum of Powers of Three.cpp">
+      <Filter>LeetCode</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MultiThreading.h" />
+    <ClInclude Include="Header.h" />
+    <ClInclude Include="School.h">
+      <Filter>School</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="LeetCode">
+      <UniqueIdentifier>{fba94d68-f08f-42ce-94ca-2b71bc3369d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="School">
+      <UniqueIdentifier>{efc9df04-32ff-4dc3-9abd-dcc31240d8cd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Text.dat">
+      <Filter>School</Filter>
+    </None>
+  </ItemGroup>
+</Project>
