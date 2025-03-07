@@ -141,7 +141,10 @@
   <ItemGroup>
     <ClCompile Include="Check if Number is a Sum of Powers of Three.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Merge sorted Arrays.cpp" />
     <ClCompile Include="PivotArray.cpp" />
+    <ClCompile Include="Remove Duplicates.cpp" />
+    <ClCompile Include="Remove Element.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MultiThreading.h" />

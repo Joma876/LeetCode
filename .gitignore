@@ -361,3 +361,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Header.h
+/Main.cpp
+/MultiThreading.h
+/School.h
+/Text.dat
+/TEST.vcxproj.filters
+/Remove Duplicates.cpp
+/.gitignore
+/.gitignore
+/TEST.vcxproj

@@ -8,6 +8,15 @@
     <ClCompile Include="Check if Number is a Sum of Powers of Three.cpp">
       <Filter>LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="Merge sorted Arrays.cpp">
+      <Filter>LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Remove Element.cpp">
+      <Filter>LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Remove Duplicates.cpp">
+      <Filter>LeetCode</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MultiThreading.h" />
